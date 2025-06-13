@@ -24,6 +24,7 @@ You can install the required package with:
 pip install requests
 
 
+```bash
 Enter the amount in US Dollars (USD): 100
 
 Available currencies:
